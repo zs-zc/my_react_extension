@@ -1,0 +1,20 @@
+.cinema ul li {
+    line-height: 20px;
+    border-bottom: 1px solid #000;
+}
+
+.cinema ul li h2 {
+    font-size: 18px;
+    color: #333;
+}
+
+.cinema ul li span {
+    font-size: 12px;
+    color: slategray;
+}
+
+.cinema_input {
+    width: 100%;
+    line-height: 40px;
+
+}
